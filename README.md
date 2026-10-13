@@ -6,4 +6,4 @@ The static website is in `dist/`. Updates pushed to `main` deploy automatically 
 
 The page includes Jhen's story, blood donation instructions, downloadable patient Blue Card, GCash details, and a photo gallery.
 
-Blood donors should coordinate with Dan Pulido first: https://www.facebook.com/thengpulido
+Blood donors should coordinate with Dante Pulido first: https://www.facebook.com/thengpulido
